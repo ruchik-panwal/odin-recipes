@@ -1,0 +1,14 @@
+.title{
+    color: beige;
+    background-color: brown;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+#ls{
+    color: brown;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
